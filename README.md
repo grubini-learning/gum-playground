@@ -36,3 +36,10 @@ A lightweight peer-to-peer (P2P) audio/video and chat messenger built for the br
    ```bash
    http://localhost:3000
    ```
+
+## 🖥️ Usage
+1. Open the app in your browser.
+2. Share your unique room link with a friend.
+3. Start video chatting and messaging instantly.
+
+
